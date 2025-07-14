@@ -4,44 +4,34 @@
 Este projeto tem como objetivo apresentar uma plataforma educacional voltada à valorização da cultura negra, com cursos gratuitos, conteúdos culturais e acesso à arte afrocentrada. Ele cumpre os requisitos mínimos de um sistema com separação entre back-end e front-end, mesmo que não integrados, e está alinhado aos Objetivos de Desenvolvimento Sustentável (ODS) da ONU, especialmente no eixo da educação de qualidade e igualdade racial.
 
 🖥️ Front-end
+
 ✅ Tecnologias utilizadas:
 React.js – Estrutura principal do front-end
-
 React Icons – Ícones modernos para o design da interface
-
 SweetAlert2 (SweetAlert) – Alertas personalizados e acessíveis
-
 FormSubmit – Serviço externo usado para envio de mensagens via formulário de contato
-
 Museu de Arte de Chicago API – Integração com acervo de arte para enriquecer o conteúdo cultural
-
 gh-pages – Utilizado para fazer o deploy do site no GitHub Pages
 
+
 ⚙️ Funcionalidades implementadas:
+
 Página inicial com destaque para cursos e cultura
-
 Lista de cursos disponíveis
-
 FAQ e contato com formulário funcional
-
 Blog com posts sobre cultura e tecnologia negra
-
 Categorias e arquivo do blog
-
 Integração com a API do Museu de Arte de Chicago
-
 Deploy do site estático com gh-pages
 
 🧠 Back-end
+
 ✅ Tecnologias utilizadas:
+
 Java (JDK 17+)
-
 Orientação a Objetos
-
 JDBC (Java Database Connectivity)
-
 MySQL – Banco de dados relacional
-
 Eclipse IDE
 
 📦 Estrutura do projeto Java:
@@ -54,19 +44,16 @@ src/
 
 
 ⚙️ Funcionalidades implementadas:
+
 CRUD completo via console para duas entidades:
-
 Usuario: cadastrar, listar, buscar, atualizar e excluir
-
 Curso: cadastrar, listar, buscar, atualizar e excluir
-
 Menu interativo com Scanner
-
 Persistência dos dados em banco relacional (MySQL)
 
 🔧 Como executar o back-end (Java):
-Clone o projeto ou importe no Eclipse como um projeto Java
 
+Clone o projeto ou importe no Eclipse como um projeto Java
 Configure seu MySQL com:
 
 sql
