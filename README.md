@@ -45,14 +45,14 @@ MySQL – Banco de dados relacional
 Eclipse IDE
 
 📦 Estrutura do projeto Java:
-css
-Copiar
-Editar
+
 src/
 ├── main/          → Menu principal com navegação via console
 ├── model/         → Entidades: Usuario e Curso
 ├── dao/           → DAOs com operações CRUD completas
 └── database/      → Classe ConnectionFactory para conectar ao MySQL
+
+
 ⚙️ Funcionalidades implementadas:
 CRUD completo via console para duas entidades:
 
